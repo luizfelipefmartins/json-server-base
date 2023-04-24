@@ -6,6 +6,82 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "teste1@mail.com",
+      "password": "$2a$10$4zQsKEILseN0Hx3j2ff8ReLbrnuQWmFhDYkRjdTXmZkOR5KY4MIcO",
+      "name": "Teste",
+      "id": 3
+    },
+    {
+      "email": "teste2@mail.com",
+      "password": "$2a$10$N1mOuhxK2eZ8Sz9lPYB.Qev7A4tnc6nncMUOUc2YtKl0epZN8B8w.",
+      "name": "Tamara",
+      "id": 4
+    }
+  ],
+  "pets": [
+    {
+      "namePet": "Luke",
+      "species": "Cachorro",
+      "gender": "Macho",
+      "race": "Husky Siberiano",
+      "age": 1,
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "namePet": "Leia",
+      "species": "Cachorro",
+      "gender": "Femea",
+      "race": "Husky Siberiano",
+      "age": 1,
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "namePet": "Loli",
+      "species": "Cachorro",
+      "gender": "Femea",
+      "race": "Pomsky",
+      "age": 0.7,
+      "userId": 3,
+      "id": 3
+    },
+    {
+      "namePet": "Branca",
+      "species": "gato",
+      "gender": "Femea",
+      "race": "SRD",
+      "age": 1,
+      "userId": 4,
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "content": "Que animais mais fofo",
+      "userId": 3,
+      "petId": 1,
+      "id": 1
+    },
+    {
+      "content": "Que animais mais fofo",
+      "userId": 3,
+      "petId": 3,
+      "id": 2
+    },
+    {
+      "content": "Parece um mini husky",
+      "userId": 3,
+      "petId": 3,
+      "id": 3
+    },
+    {
+      "content": "Parece um mini husky",
+      "userId": 3,
+      "petId": 4,
+      "id": 4
     }
   ]
 }
